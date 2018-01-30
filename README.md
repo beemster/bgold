@@ -1,0 +1,2 @@
+# bgold
+bitcoingold wallet/daemon
